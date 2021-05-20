@@ -20,6 +20,7 @@ public class OnClick_Button : MonoBehaviour
     public GameObject Nuturition;
     public GameObject BugCatch;
     public GameObject Harvest;
+    
 
     public void BackBtn_clicked()
     {
